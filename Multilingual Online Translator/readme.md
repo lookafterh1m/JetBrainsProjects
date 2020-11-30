@@ -1,0 +1,1 @@
+This is translator that accept can translate from and to 13 languages. It requests reverso-context to get translations and examples. More dedailed description at https://hyperskill.org/projects/99.
